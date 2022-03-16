@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SeungheeJeong
-- 👀 I’m interested in Python & Machine learning
+- 👀 I’m interested in Web, Python & Machine learning
 - 🌱 I’m currently learning Python and database
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
